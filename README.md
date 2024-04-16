@@ -25,3 +25,11 @@ dotnet new console -n SumRootToLeafNumbers
 
 # Run the project
 dotnet run
+
+_____________________________________________________________________________________
+
+# writing Test- installing related package
+dotnet add package NUnit
+
+# run the test
+dotnet test
