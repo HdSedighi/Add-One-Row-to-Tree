@@ -1,0 +1,14 @@
+D:\Repositories\Leetcode-repo\Add One Row to Tree\AddOneRowtoTree\bin\Debug\net7.0\AddOneRowtoTree.exe
+D:\Repositories\Leetcode-repo\Add One Row to Tree\AddOneRowtoTree\bin\Debug\net7.0\AddOneRowtoTree.deps.json
+D:\Repositories\Leetcode-repo\Add One Row to Tree\AddOneRowtoTree\bin\Debug\net7.0\AddOneRowtoTree.runtimeconfig.json
+D:\Repositories\Leetcode-repo\Add One Row to Tree\AddOneRowtoTree\bin\Debug\net7.0\AddOneRowtoTree.dll
+D:\Repositories\Leetcode-repo\Add One Row to Tree\AddOneRowtoTree\bin\Debug\net7.0\AddOneRowtoTree.pdb
+D:\Repositories\Leetcode-repo\Add One Row to Tree\AddOneRowtoTree\obj\Debug\net7.0\AddOneRowtoTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Leetcode-repo\Add One Row to Tree\AddOneRowtoTree\obj\Debug\net7.0\AddOneRowtoTree.AssemblyInfoInputs.cache
+D:\Repositories\Leetcode-repo\Add One Row to Tree\AddOneRowtoTree\obj\Debug\net7.0\AddOneRowtoTree.AssemblyInfo.cs
+D:\Repositories\Leetcode-repo\Add One Row to Tree\AddOneRowtoTree\obj\Debug\net7.0\AddOneRowtoTree.csproj.CoreCompileInputs.cache
+D:\Repositories\Leetcode-repo\Add One Row to Tree\AddOneRowtoTree\obj\Debug\net7.0\AddOneRowtoTree.dll
+D:\Repositories\Leetcode-repo\Add One Row to Tree\AddOneRowtoTree\obj\Debug\net7.0\refint\AddOneRowtoTree.dll
+D:\Repositories\Leetcode-repo\Add One Row to Tree\AddOneRowtoTree\obj\Debug\net7.0\AddOneRowtoTree.pdb
+D:\Repositories\Leetcode-repo\Add One Row to Tree\AddOneRowtoTree\obj\Debug\net7.0\AddOneRowtoTree.genruntimeconfig.cache
+D:\Repositories\Leetcode-repo\Add One Row to Tree\AddOneRowtoTree\obj\Debug\net7.0\ref\AddOneRowtoTree.dll
